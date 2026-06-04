@@ -1,4 +1,4 @@
-# MP0485_RA9_JDBC_Template - Student Management System
+# MP0485_RA9_JDBC_Template_Template - Student Management System
 
 ## Project Overview
 
